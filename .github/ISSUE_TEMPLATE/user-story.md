@@ -21,9 +21,9 @@ assignees: ''
 12
 13
 14
- **As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+ **As a** product owner  
+ **I need** a functionality implemented  
+ **So that** the customer can evaluate if what we create is good for her or his business  
    
  ### Details and Assumptions
  * [document what you know]
@@ -31,7 +31,7 @@ assignees: ''
  ### Acceptance Criteria  
    
  ```gherkin
- Given [some context]
- When [certain action is taken]
- Then [the outcome of action is observed]
+ Given the system we are building
+ When the customer or the enviroment interacts with the system
+ Then system behaves as predicted.
  ```
